@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1646785448219" clover="3.2.0">
+  <project timestamp="1646785448219" name="All files">
+    <metrics statements="17" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4" elements="23" coveredelements="14" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
+    <file name="problem6-linkedList.js" path="/Users/coltskeen/Galvanize/Class_Work/interview_problems/problem6-linkedList.js">
+      <metrics statements="17" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="27" count="6" type="stmt"/>
+      <line num="28" count="6" type="stmt"/>
+      <line num="29" count="6" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="50" count="6" type="stmt"/>
+      <line num="51" count="6" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
